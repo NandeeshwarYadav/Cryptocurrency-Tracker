@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.head {
+  color: #00e7ff;
+  text-align: center;
+}
+.details {
+  color: #ffffff;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #092e33;
+}
+.usd-euro {
+  display: flex;
+  flex-direction: row;
+}
+.usd {
+  margin-right: 40px;
+}
+.crypto-card {
+  border-style: solid;
+  border-color: #00e7ff;
+  border-width: 5px;
+  margin: 0;
+}
